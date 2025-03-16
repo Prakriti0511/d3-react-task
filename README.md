@@ -51,4 +51,4 @@ You can modify the stock symbol in fetchStockData.js.
 
 🔗 Links
 Live Demo (if hosted): [Demo Link Here]
-GitHub Repository: [GitHub Link Here]
+GitHub Repository: https://github.com/Prakriti0511/d3-react-task
