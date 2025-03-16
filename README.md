@@ -50,5 +50,5 @@ The chart automatically updates every X seconds (adjustable in the code).
 You can modify the stock symbol in fetchStockData.js.
 
 🔗 Links
-Live Demo (if hosted): [Demo Link Here]
+Live Demo (if hosted): https://vercel.com/prakriti0511s-projects/d3-react-task/9apKUEVGtxnZr3fCfymfJTS4emda
 GitHub Repository: https://github.com/Prakriti0511/d3-react-task
