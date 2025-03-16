@@ -1,0 +1,15 @@
+.app-container {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  svg {
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  
